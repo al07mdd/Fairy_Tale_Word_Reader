@@ -1,0 +1,7 @@
+{
+  "name": "Казкова Читаночка",
+  "description": "Інтерактивний додаток для навчання дітей читанню за допомогою Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
